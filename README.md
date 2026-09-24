@@ -195,6 +195,19 @@ DAX measures were created to calculate important metrics such as average length 
 The dashboard provides an interactive view of hospital operations and enables users to examine healthcare metrics across different departments, diagnoses, patients, and appointment outcomes.
 
 
+## Project Conclusion
+
+The **Healthcare Patient & Hospital Operations Analytics** project demonstrates how healthcare operational data can be transformed into meaningful analytical insights using **SQL and Power BI**.
+
+The analysis covered patient demographics, hospital admissions, diagnoses, departmental activity, average length of stay, readmissions, and appointment outcomes. SQL was used to explore and validate the underlying healthcare data, while Power BI was used for data modeling, KPI development, interactive visualizations, and dashboard creation.
+
+The final dashboard provides a consolidated view of key hospital operational metrics and highlights variations in admission volumes, department activity, length of stay, readmissions, diagnoses, and appointment outcomes.
+
+Through this project, I developed practical experience in **SQL querying, relational data analysis, Power BI data modeling, DAX measures, dashboard development, KPI analysis, and data storytelling** within a healthcare domain.
+
+The project demonstrates the process of converting raw healthcare data into structured analysis and communicating the resulting patterns through an interactive business intelligence dashboard.
+
+
 
 
 
