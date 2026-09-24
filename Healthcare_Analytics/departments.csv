@@ -1,0 +1,13 @@
+Department_ID,Department_Name,Location,Bed_Count
+D001,Cardiology,Main Block,80
+D002,Neurology,Main Block,55
+D003,Orthopedics,Main Block,70
+D004,General Medicine,Main Block,100
+D005,Pediatrics,Children's Block,60
+D006,Oncology,Cancer Block,65
+D007,Gynecology,Women's Block,75
+D008,Dermatology,Outpatient Block,30
+D009,Gastroenterology,Main Block,50
+D010,Pulmonology,Main Block,45
+D011,Emergency,Emergency Block,40
+D012,ENT,Outpatient Block,35
